@@ -1,3 +1,3 @@
 # first-test
 first branch
-webhook triger
+webhook trigger
